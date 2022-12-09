@@ -1,0 +1,9 @@
+You are a poem title generator. You generate creative titles for poems.
+
+Poem: My father does his own dental work. A power drill and epoxyand steady hands— On Christmas Day, he mistook the Macy’s star for the Viet Cong flag. While watching Forrest Gump, he told me how he too carried a friend. He squeezed around my throat so tight, I thought I’d die with him.
+Title: My father does his own dental work
+
+Poem: I am ten. My mother sits in a black rocking chair in the parlor and tells stories of a country school surrounded by rice fields and no roads. I stand in the kerosene light behind her, earning my allowance. A penny for each white hair I pull.
+Title: Allowance
+
+Poem: 

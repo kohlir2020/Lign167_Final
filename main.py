@@ -40,7 +40,7 @@ class App(QMainWindow):
         #self.label.setStyleSheet('border: 1px solid #3A3939; color: black; margin: 1px;')
 
         # Create label for instructions
-        self.label1 = QLabel('This is a Poem Title Generator. It is an application of a Deep Learning model. This application is a pre-trained GPT-2 model fine-tuned on a corpus of Poem-Title pairs from the PoetryFoundation.\nPlease write a poem in the textbox to the left. Click the button below to generate an appropriate title for your poem.', self)
+        self.label1 = QLabel('This is a Poem Title Generator. It is an application of a Deep Learning model. This application is a pre-trained BART model fine-tuned on a corpus of Poem-Title pairs from the PoetryFoundation.\nPlease write a poem in the textbox to the left. Click the button below to generate an appropriate title for your poem.', self)
         self.label1.setWordWrap(True)
         self.label1.resize(250, 200)
         self.label1.move(300, 50)

@@ -6,10 +6,6 @@ import sys
 import os
 import openai
 from transformers import pipeline
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-
-#df = pd.read_csv('PoetryFoundationData.csv')
-#print(df.iloc[2])
 
 openai.api_key = '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'
 
