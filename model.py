@@ -7,7 +7,7 @@ import os
 import openai
 from transformers import pipeline
 
-openai.api_key = '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'
+openai.api_key = '###'
 
 TOKENIZER = None
 MODEL = pipeline('text2text-generation', 'czearing/story-to-title')
